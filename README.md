@@ -16,13 +16,6 @@ Basic networking using Go’s standard library
 
 Clear, minimal examples focused on understanding behavior rather than performance
 
-Repository structure
-
-learning-labs/
-Contains focused, topic-oriented experiments and exercises used to learn specific aspects of Go.
-
-Why this repository exists
-
 The goal of this repository is to build solid systems-level foundations in Go by implementing concepts directly instead of only reading about them.
 
 All code here is learning-oriented, not production software. The emphasis is on:
