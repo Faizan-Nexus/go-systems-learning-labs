@@ -1,7 +1,4 @@
-=========================
-ROOT — README.md
-=========================
-Go Projects
+# Go Projects
 
 This repository contains a structured collection of Go programs focused on learning the language and understanding how Go is used to build concurrent and networked systems.
 
